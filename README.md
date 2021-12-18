@@ -8,13 +8,11 @@
 - Shows stats of players in your lobby in seconds
 - Shows party stats
 - Resizable, movable, and minimizable
-- with most clients: badlion, lunar, forge, anbd vanilla
+- Works with most clients: badlion, lunar, forge, anbd vanilla
 - Shows nicked players
-- ettings: Unnick yourself
-• Settings: Game start Notifications
-• Supports Windows 
-• Players that are possibly in a party are given the PRTY tag
-•
-•
-•
-•
+- Settings: Unnick yourself
+- Settings: Game start Notifications
+- Supports Windows 
+- Shows Players that are possibly in a party are given the PRTY tag
+
+[DOWNLOAD HERE](https://github.com/Chit321/bedwars-overlay-master)
