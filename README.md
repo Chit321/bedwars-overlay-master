@@ -15,4 +15,4 @@
 - Supports Windows 
 - Shows Players that are possibly in a party are given the PRTY tag
 
- ## [DOWNLOAD HERE](https://github.com/Chit321/bedwars-overlay-master)
+ ## [DOWNLOAD HERE](https://github.com/Chit321/bedwars-overlay-master/releases)
